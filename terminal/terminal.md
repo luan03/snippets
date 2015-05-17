@@ -37,7 +37,7 @@ $ - usuário normal.
         </tr>
         <tr>
             <td>head</td>
-            <td>head</td>
+            <td>head estilo.css</td>
             <td>Para listar as linhas de um arquivo.</td>
         </tr>
         <tr>
@@ -82,19 +82,31 @@ $ - usuário normal.
             <td>mostrar o arquivo com as linhas</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>mkdir</td>
+            <td>mkdir assets/</td>
+            <td>cria um diretório chamado assets</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>mkdir</td>
+            <td>mkdir assets css js img svg</td>
+            <td>criar vários diretórios de uma só vez</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>rmdir</td>
+            <td>rmdir assets/</td>
+            <td>deleta o diretório chamado assets</td>
+        </tr>
+        <tr>
+            <td>rm -rf</td>
+            <td>rm -rf css/</td>
+            <td>
+                remove o diretório e todos os arquivos que estão dentro dele
+            </td>
+        </tr>
+        <tr>
+            <td>rm</td>
+            <td>rm scripts.js</td>
+            <td>deleta o arquivo scripts.js</td>
         </tr>
         <tr>
             <td></td>

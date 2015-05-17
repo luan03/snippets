@@ -33,7 +33,7 @@ Repetição resulta em menos código, manutenção mais fácil e maior consistê
 
 Estas são todas as vitórias.
 
-**Excepções à regra pode ser vantajoso, mas eles deve ser justificados.
+**Exceções à regra pode ser vantajoso, mas eles deve ser justificados.
 
 
 <h2>1 - BASE</h2>
@@ -219,7 +219,7 @@ conteúdo a ser trocado, movendo-se a barra lateral! para a direita para a esque
 
 <p>Isso ajuda a identificar facilmente o objectivo destes estilos e separá-los! em MODULE ou STATES.</p>
 
-<p>Estilos de layout são o único tipo de categoria a usar ID, se você optar por usá-los em tudo.</p>
+<p>Estilos de layout são o único tipo de categoria a usar ID, se você optar por usá-los, utilize em tudo.</p>
 
 <p>Se você deseja namespace seu ID seletores, você pode, mas não é tão necessário fazê-lo.</p>
 
@@ -1251,6 +1251,9 @@ Há algumas outras coisas menores a serem observados com o exemplo:
 Estas são todas preferencial e eu não vou invejar por usar um
 completamente di "abordagem erent. Este é apenas o que eu encontrei que se sente
 natural e faz mais sentido para mim.
+
+
+
 
 <b>Agrupando propriedades</b>
 
