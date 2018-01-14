@@ -1,4 +1,1 @@
-snippets
-========
-
-Front End snippets mais utilizados durante o desenvolvimento.
+Personal code snippets
